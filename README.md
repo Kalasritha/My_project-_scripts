@@ -1,1 +1,1 @@
-# My_project-_scripts
+# My_project_scripts
